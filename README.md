@@ -8,8 +8,8 @@ Zedboard (http://www.zedboard.org/)
 ARM assembly & C code
 
 ## Environment
-Xilinx Vivado and SDK tools (v19.1) (www.xilinx.com)
-Tera Term
+- Xilinx Vivado and SDK tools (v19.1) (www.xilinx.com)
+- Tera Term
 
 ## Description
 `Mini-Project`
