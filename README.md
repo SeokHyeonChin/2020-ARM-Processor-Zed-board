@@ -9,7 +9,7 @@ ARM assembly & C code
 
 ## Environment
 - Xilinx Vivado and SDK tools (v19.1) (www.xilinx.com)
-- Tera Term
+- Tera Term (For UART communication)
 
 ## Description
 `Mini-Project`
